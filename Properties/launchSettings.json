@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SASToCSV": {
+      "commandName": "Project",
+      "commandLineArgs": "'D:\\OneDrive\\RationingUnderStickyPrices\\Empirics\\SourceSD2Files\\WANA.SD2' 'D:\\OneDrive\\RationingUnderStickyPrices\\Empirics\\SourceCSVFiles\\test.csv' ",
+      "nativeDebugging": true
+    }
+  }
+}
